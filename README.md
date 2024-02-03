@@ -41,3 +41,11 @@ Overall, the code allows the player to play the Number Guessing Game with multip
 
 ** Output: Demo **
 https://www.linkedin.com/feed/update/urn:li:activity:7089544314153807872/
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
